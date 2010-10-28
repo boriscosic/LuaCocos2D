@@ -130,6 +130,7 @@
 			A1F7E26E1279D92E0062473A /* PBXTextBookmark */ = A1F7E26E1279D92E0062473A /* PBXTextBookmark */;
 			A1F7E26F1279D92E0062473A /* PBXTextBookmark */ = A1F7E26F1279D92E0062473A /* PBXTextBookmark */;
 			A1F7E2711279D9410062473A /* PBXTextBookmark */ = A1F7E2711279D9410062473A /* PBXTextBookmark */;
+			A1F7E2741279DA030062473A /* PBXTextBookmark */ = A1F7E2741279DA030062473A /* PBXTextBookmark */;
 		};
 		sourceControlManager = A1F7DF471278FD250062473A /* Source Control */;
 		userBuildSettings = {
@@ -275,9 +276,9 @@
 	};
 	A1F7E20A1279D7520062473A /* LuaBridge.mm */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {917, 780}}";
-			sepNavSelRange = "{623, 0}";
-			sepNavVisRange = "{254, 755}";
+			sepNavIntBoundsRect = "{{0, 0}, {917, 767}}";
+			sepNavSelRange = "{559, 0}";
+			sepNavVisRange = "{162, 754}";
 		};
 	};
 	A1F7E20C1279D7580062473A /* PBXTextBookmark */ = {
@@ -566,5 +567,15 @@
 		rType = 0;
 		vrLen = 755;
 		vrLoc = 254;
+	};
+	A1F7E2741279DA030062473A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A1F7E20A1279D7520062473A /* LuaBridge.mm */;
+		name = "LuaBridge.mm: 32";
+		rLen = 0;
+		rLoc = 559;
+		rType = 0;
+		vrLen = 754;
+		vrLoc = 162;
 	};
 }
