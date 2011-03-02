@@ -17,5 +17,4 @@
 
 // returns a Scene that contains the MainMenu as the only child
 +(id) scene;
--(CCLabel *)addMenuTitle:(NSString *)menuTitle;
 @end
