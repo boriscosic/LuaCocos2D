@@ -1,1 +1,14 @@
 Integrating Lua interpreter into a Cocos2D project.
+Note: I've been busy so I am working on this as a proof of concept and maybe something that I can use in the future. Whatever I do I hope it helps someone and I can't guarantee any regular updates. Sorry :).
+
+Part 2
+----------
+This tutorial is working towards a more usable game. I have in my mind what I want it to be but it might change as I get there. I've completed the Lua bridge and added a Lua implementation for the menu. This implementation by no means wraps the entire functionality of Cocos2D, nor it showcases the full power of Lua, but it's getting there. It is up to the developer to implement as much functionality as deemed necessary. 
+
+For start, I've separated Lua wrapper into Classes/Lua. When adding Lua files, remember to right click on them and click Get Info. Click on targets and select LuaCocos2D or whatever your project might be. This will ensure that the Lua scripts are bundled with the application. 
+
+LuaBridge encompasses the Cocos2D layer and menu nodes. LuaMenu uses the bridge to determine the path and execute it's Lua script. The menu items are created from Lua with their appropriate arguments and rendered to the layer. 
+
+Part 1
+----------
+When I wrote this part Apple has just changed portion of the license to allow interpreted languages. Actually, I think it's been around for a while but using it was iffy. Now that it's finally in the open I decided to integrate Lua into the more popular framework Cocos2D for iPhone. This tutorial covered the basics of loading a Lua file, loading a project with Lua interpreter embedded and running some code and return variables. 

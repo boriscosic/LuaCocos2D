@@ -8,7 +8,7 @@
 
 #import "LuaCocos2DAppDelegate.h"
 #import "cocos2d.h"
-#import "HelloWorldScene.h"
+#import "MainMenu.h"
 
 @implementation LuaCocos2DAppDelegate
 
@@ -50,7 +50,7 @@
 	[CCTexture2D setDefaultAlphaPixelFormat:kTexture2DPixelFormat_RGBA8888];	
 	
 		
-	[[CCDirector sharedDirector] runWithScene: [HelloWorld scene]];
+	[[CCDirector sharedDirector] runWithScene: [MainMenu scene]];
 }
 
 

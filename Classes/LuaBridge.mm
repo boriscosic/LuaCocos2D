@@ -3,57 +3,41 @@
 //  LuaCocos2D
 //
 //  Created by Boris Cosic on 10-10-28.
-//  Copyright 2010 __MyCompanyName__. All rights reserved.
 //
 
 #import "LuaBridge.h"
 
-extern "C"{
-#include "lua.h"
-#include "lualib.h"
-#include "lauxlib.h"
-#include "lstring.h"
-};
-
-int lua(const char *path) {
+int lua(const char *path, const char* modname, const luaL_Reg *modslib) {
 	
-	lua_State *l;
-	l = lua_open();
-	luaopen_base(l);
-	luaopen_string(l);	// load the string library
-	luaL_openlibs(l);	// load all libraries
-	
-	int width = 0;
-	int height = 0;
-	
-	printf("\nAbout to run Lua code\n");
-	
-	luaL_loadstring(l, "print(\"Running Lua Code...\")");
-	
-	lua_pcall(l, 0, LUA_MULTRET, 0);
+	lua_State *l;		
+	l = lua_open();						// initialize lua
+	luaopen_base(l);					
+	luaopen_string(l);					// load the string library
+	luaL_openlibs(l);					// load all libraries
+	luaL_register(l, modname, modslib);	// register external libraries
 	
 	if(luaL_dofile(l, path)) {
 		printf("%s",lua_tostring(l,-1));
 	}
-	else {
-		lua_getglobal(l, "width");
-		lua_getglobal(l, "height");
-		
-		width = (int)lua_tonumber(l, -2);
-		height = (int)lua_tonumber(l, -1);
-	}
-	
-	NSLog(@"width: %d, height: %d", width, height);
 	
 	lua_close(l);
 	return 0;
 }
 
 @implementation LuaBridge
+@synthesize _lua_script;
 
-- (void) run_lua:(NSString *)path {
-	NSLog(@"path = %@", path);
-	lua([path UTF8String]);
+- (void) prepare_lua:(NSString *)lua_script {
+	// determine the home of the app
+	NSString* home = NSHomeDirectory();
+	NSMutableString* path = [[NSMutableString alloc] init];
+	[path setString:home];
+	[path appendString:lua_script];
+	self._lua_script = path;
+	NSLog(@"Lua script at %@", path);
+	
+	//lua([path UTF8String], self._node);
 }
+
 
 @end

@@ -1,0 +1,1232 @@
+TLua
+v7
+r0
+t320753814.413871
+cCheck dependencies
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lapi.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lapi.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lauxlib.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lauxlib.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lbaselib.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lbaselib.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lcode.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lcode.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldblib.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldblib.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldebug.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldebug.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldo.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldo.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldump.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldump.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lfunc.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lfunc.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lgc.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lgc.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/linit.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/linit.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/liolib.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/liolib.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/llex.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/llex.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lmathlib.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lmathlib.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lmem.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lmem.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/loadlib.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/loadlib.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lobject.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lobject.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lopcodes.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lopcodes.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/loslib.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/loslib.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lparser.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lparser.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lstate.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstate.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lstring.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstring.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lstrlib.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstrlib.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ltable.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltable.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ltablib.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltablib.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ltm.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltm.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lundump.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lundump.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lvm.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lvm.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lzio.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lzio.c normal i386 c com.apple.compilers.gcc.4_2
+cLibtool /Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/libLua.a normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/assert.h
+c000000004C5790910000000000000DCB
+t1280807057
+s3531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/ctype.h
+c000000004C5790920000000000002C18
+t1280807058
+s11288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/dlfcn.h
+c000000004AB98DF40000000000000B1C
+t1253674484
+s2844
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/errno.h
+c000000004C57909100000000000003EB
+t1280807057
+s1003
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/locale.h
+c000000004C57909100000000000008F0
+t1280807057
+s2288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/mach-o/dyld.h
+c000000004AB98DF40000000000003D47
+t1253674484
+s15687
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/readline/history.h
+c000000004A11A2FC0000000000001C28
+t1242669820
+s7208
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/readline/readline.h
+c000000004A11A2FC0000000000001C28
+t1242669820
+s7208
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/setjmp.h
+c000000004C5790910000000000000438
+t1280807057
+s1080
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/stdio.h
+c000000004C57909200000000000040AC
+t1280807058
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/stdlib.h
+c000000004C5790920000000000002DF5
+t1280807058
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/string.h
+c000000004C5790920000000000001731
+t1280807058
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/time.h
+c000000004C579092000000000000178E
+t1280807058
+s6030
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/unistd.h
+c000000004C579092000000000000563E
+t1280807058
+s22078
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A1198340000000000000C7E
+t1242667060
+s3198
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11983400000000000010DD
+t1242667060
+s4317
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A1198340000000000003197
+t1242667060
+s12695
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/libLua.a
+t1299051936
+s678072
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/Lua.LinkFileList
+c000000004D6DF59E0000000000000DE5
+t1299051934
+s3557
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lapi.o
+t1299051934
+s45348
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lauxlib.o
+t1299051934
+s31604
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lbaselib.o
+t1299051934
+s35272
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lcode.o
+t1299051935
+s41676
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldblib.o
+t1299051935
+s22348
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldebug.o
+t1299051935
+s29960
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldo.o
+t1299051935
+s25680
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldump.o
+t1299051935
+s12988
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lfunc.o
+t1299051935
+s13056
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lgc.o
+t1299051935
+s26876
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/linit.o
+t1299051935
+s3492
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/liolib.o
+t1299051935
+s29168
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/llex.o
+t1299051935
+s29776
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lmathlib.o
+t1299051935
+s16420
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lmem.o
+t1299051935
+s8824
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/loadlib.o
+t1299051935
+s22768
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lobject.o
+t1299051935
+s18768
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lopcodes.o
+t1299051935
+s2876
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/loslib.o
+t1299051935
+s15200
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lparser.o
+t1299051935
+s53948
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lstate.o
+t1299051935
+s13304
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lstring.o
+t1299051935
+s10992
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lstrlib.o
+t1299051936
+s43488
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ltable.o
+t1299051935
+s24052
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ltablib.o
+t1299051936
+s13540
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ltm.o
+t1299051936
+s10384
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lundump.o
+t1299051936
+s16972
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lvm.o
+t1299051936
+s39388
+
+N/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lzio.o
+t1299051936
+s10492
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lapi.c
+c000000004D37BE7600000000000058B4
+t1295498870
+s22708
+i<assert.h>
+i<math.h>
+i<stdarg.h>
+i<string.h>
+i"lua.h"
+i"lapi.h"
+i"ldebug.h"
+i"ldo.h"
+i"lfunc.h"
+i"lgc.h"
+i"lmem.h"
+i"lobject.h"
+i"lstate.h"
+i"lstring.h"
+i"ltable.h"
+i"ltm.h"
+i"lundump.h"
+i"lvm.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lapi.h
+c000000004D37BE760000000000000106
+t1295498870
+s262
+i"lobject.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lauxlib.c
+c000000004D37BE760000000000004409
+t1295498870
+s17417
+i<ctype.h>
+i<errno.h>
+i<stdarg.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"lua.h"
+i"lauxlib.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lauxlib.h
+c000000004D37BE760000000000001691
+t1295498870
+s5777
+i<stddef.h>
+i<stdio.h>
+i"lua.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lbaselib.c
+c000000004D37BE760000000000004296
+t1295498870
+s17046
+i<ctype.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"lua.h"
+i"lauxlib.h"
+i"lualib.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lcode.c
+c000000004D37BE760000000000005357
+t1295498870
+s21335
+i<stdlib.h>
+i"lua.h"
+i"lcode.h"
+i"ldebug.h"
+i"ldo.h"
+i"lgc.h"
+i"llex.h"
+i"lmem.h"
+i"lobject.h"
+i"lopcodes.h"
+i"lparser.h"
+i"ltable.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lcode.h
+c000000004D37BE760000000000000ABE
+t1295498870
+s2750
+i"llex.h"
+i"lobject.h"
+i"lopcodes.h"
+i"lparser.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldblib.c
+c000000004D37BE760000000000002755
+t1295498870
+s10069
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"lua.h"
+i"lauxlib.h"
+i"lualib.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldebug.c
+c000000004D37BE7600000000000041C8
+t1295498870
+s16840
+i<stdarg.h>
+i<stddef.h>
+i<string.h>
+i"lua.h"
+i"lapi.h"
+i"lcode.h"
+i"ldebug.h"
+i"ldo.h"
+i"lfunc.h"
+i"lobject.h"
+i"lopcodes.h"
+i"lstate.h"
+i"lstring.h"
+i"ltable.h"
+i"ltm.h"
+i"lvm.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldebug.h
+c000000004D37BE760000000000000425
+t1295498870
+s1061
+i"lstate.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldo.c
+c000000004D37BE760000000000003A03
+t1295498870
+s14851
+i<setjmp.h>
+i<stdlib.h>
+i<string.h>
+i"lua.h"
+i"ldebug.h"
+i"ldo.h"
+i"lfunc.h"
+i"lgc.h"
+i"lmem.h"
+i"lobject.h"
+i"lopcodes.h"
+i"lparser.h"
+i"lstate.h"
+i"lstring.h"
+i"ltable.h"
+i"ltm.h"
+i"lundump.h"
+i"lvm.h"
+i"lzio.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldo.h
+c000000004D37BE760000000000000769
+t1295498870
+s1897
+i"lobject.h"
+i"lstate.h"
+i"lzio.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldump.c
+c000000004D37BE760000000000000C2A
+t1295498870
+s3114
+i<stddef.h>
+i"lua.h"
+i"lobject.h"
+i"lstate.h"
+i"lundump.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lfunc.c
+c000000004D37BE76000000000000120A
+t1295498870
+s4618
+i<stddef.h>
+i"lua.h"
+i"lfunc.h"
+i"lgc.h"
+i"lmem.h"
+i"lobject.h"
+i"lstate.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lfunc.h
+c000000004D37BE760000000000000465
+t1295498870
+s1125
+i"lobject.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lgc.c
+c000000004D37BE760000000000004E83
+t1295498870
+s20099
+i<string.h>
+i"lua.h"
+i"ldebug.h"
+i"ldo.h"
+i"lfunc.h"
+i"lgc.h"
+i"lmem.h"
+i"lobject.h"
+i"lstate.h"
+i"lstring.h"
+i"ltable.h"
+i"ltm.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lgc.h
+c000000004D37BE760000000000000C57
+t1295498870
+s3159
+i"lobject.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/linit.c
+c000000004D37BE7600000000000002FD
+t1295498870
+s765
+i"lua.h"
+i"lualib.h"
+i"lauxlib.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/liolib.c
+c000000004D37BE76000000000000345E
+t1295498870
+s13406
+i<errno.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"lua.h"
+i"lauxlib.h"
+i"lualib.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/llex.c
+c000000004D37BE7600000000000030BA
+t1295498870
+s12474
+i<ctype.h>
+i<locale.h>
+i<string.h>
+i"lua.h"
+i"ldo.h"
+i"llex.h"
+i"lobject.h"
+i"lparser.h"
+i"lstate.h"
+i"lstring.h"
+i"ltable.h"
+i"lzio.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/llex.h
+c000000004D37BE760000000000000881
+t1295498870
+s2177
+i"lobject.h"
+i"lzio.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/llimits.h
+c000000004D37BE76000000000000092D
+t1295498870
+s2349
+i<limits.h>
+i<stddef.h>
+i"lua.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lmathlib.c
+c000000004D37BE7600000000000016C7
+t1295498870
+s5831
+i<stdlib.h>
+i<math.h>
+i"lua.h"
+i"lauxlib.h"
+i"lualib.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lmem.c
+c000000004D37BE76000000000000087C
+t1295498870
+s2172
+i<stddef.h>
+i"lua.h"
+i"ldebug.h"
+i"ldo.h"
+i"lmem.h"
+i"lobject.h"
+i"lstate.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lmem.h
+c000000004D37BE7600000000000005D6
+t1295498870
+s1494
+i<stddef.h>
+i"llimits.h"
+i"lua.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/loadlib.c
+c000000004D37BE760000000000004B10
+t1295498870
+s19216
+i<stdlib.h>
+i<string.h>
+i"lua.h"
+i"lauxlib.h"
+i"lualib.h"
+i<dlfcn.h>
+i<windows.h>
+i<mach-o/dyld.h>
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lobject.c
+c000000004D37BE76000000000000157A
+t1295498870
+s5498
+i<ctype.h>
+i<stdarg.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"lua.h"
+i"ldo.h"
+i"lmem.h"
+i"lobject.h"
+i"lstate.h"
+i"lstring.h"
+i"lvm.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lobject.h
+c000000004D37BE760000000000002136
+t1295498870
+s8502
+i<stdarg.h>
+i"llimits.h"
+i"lua.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lopcodes.c
+c000000004D37BE760000000000000B44
+t1295498870
+s2884
+i"lopcodes.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lopcodes.h
+c000000004D37BE760000000000001F96
+t1295498870
+s8086
+i"llimits.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/loslib.c
+c000000004D37BE760000000000001768
+t1295498870
+s5992
+i<errno.h>
+i<locale.h>
+i<stdlib.h>
+i<string.h>
+i<time.h>
+i"lua.h"
+i"lauxlib.h"
+i"lualib.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lparser.c
+c000000004D37BE760000000000008F58
+t1295498870
+s36696
+i<string.h>
+i"lua.h"
+i"lcode.h"
+i"ldebug.h"
+i"ldo.h"
+i"lfunc.h"
+i"llex.h"
+i"lmem.h"
+i"lobject.h"
+i"lopcodes.h"
+i"lparser.h"
+i"lstate.h"
+i"lstring.h"
+i"ltable.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lparser.h
+c000000004D37BE7600000000000008D5
+t1295498870
+s2261
+i"llimits.h"
+i"lobject.h"
+i"lzio.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstate.c
+c000000004D37BE76000000000000162A
+t1295498870
+s5674
+i<stddef.h>
+i"lua.h"
+i"ldebug.h"
+i"ldo.h"
+i"lfunc.h"
+i"lgc.h"
+i"llex.h"
+i"lmem.h"
+i"lstate.h"
+i"lstring.h"
+i"ltable.h"
+i"ltm.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstate.h
+c000000004D37BE760000000000001393
+t1295498870
+s5011
+i"lua.h"
+i"lobject.h"
+i"ltm.h"
+i"lzio.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstring.c
+c000000004D37BE760000000000000C26
+t1295498870
+s3110
+i<string.h>
+i"lua.h"
+i"lmem.h"
+i"lobject.h"
+i"lstate.h"
+i"lstring.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstring.h
+c000000004D37BE76000000000000032E
+t1295498870
+s814
+i"lgc.h"
+i"lobject.h"
+i"lstate.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstrlib.c
+c000000004D37BE760000000000005BB9
+t1295498870
+s23481
+i<ctype.h>
+i<stddef.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"lua.h"
+i"lauxlib.h"
+i"lualib.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltable.c
+c000000004D37BE760000000000003F87
+t1295498870
+s16263
+i<math.h>
+i<string.h>
+i"lua.h"
+i"ldebug.h"
+i"ldo.h"
+i"lgc.h"
+i"lmem.h"
+i"lobject.h"
+i"lstate.h"
+i"ltable.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltable.h
+c000000004D37BE7600000000000004A0
+t1295498870
+s1184
+i"lobject.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltablib.c
+c000000004D37BE760000000000001CAF
+t1295498870
+s7343
+i<stddef.h>
+i"lua.h"
+i"lauxlib.h"
+i"lualib.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltm.c
+c000000004D37BE760000000000000672
+t1295498870
+s1650
+i<string.h>
+i"lua.h"
+i"lobject.h"
+i"lstate.h"
+i"lstring.h"
+i"ltable.h"
+i"ltm.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltm.h
+c000000004D37BE7600000000000003FA
+t1295498870
+s1018
+i"lobject.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lua.h
+c000000004D37BE760000000000002DA8
+t1295498870
+s11688
+i<stdarg.h>
+i<stddef.h>
+i"luaconf.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/luaconf.h
+c000000004D37BE76000000000000571B
+t1295498870
+s22299
+i<limits.h>
+i<stddef.h>
+i<unistd.h>
+i<io.h>
+i<stdio.h>
+i<stdio.h>
+i<readline/readline.h>
+i<readline/history.h>
+i<assert.h>
+i<math.h>
+i<unistd.h>
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lualib.h
+c000000004D37BE760000000000000402
+t1295498870
+s1026
+i"lua.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lundump.c
+c000000004D37BE760000000000001215
+t1295498870
+s4629
+i<string.h>
+i"lua.h"
+i"ldebug.h"
+i"ldo.h"
+i"lfunc.h"
+i"lmem.h"
+i"lobject.h"
+i"lstring.h"
+i"lundump.h"
+i"lzio.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lundump.h
+c000000004D37BE76000000000000037A
+t1295498870
+s890
+i"lobject.h"
+i"lzio.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lvm.c
+c000000004D37BE760000000000005A56
+t1295498870
+s23126
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"lua.h"
+i"ldebug.h"
+i"ldo.h"
+i"lfunc.h"
+i"lgc.h"
+i"lobject.h"
+i"lopcodes.h"
+i"lstate.h"
+i"lstring.h"
+i"ltable.h"
+i"ltm.h"
+i"lvm.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lvm.h
+c000000004D37BE760000000000000487
+t1295498870
+s1159
+i"ldo.h"
+i"lobject.h"
+i"ltm.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lzio.c
+c000000004D37BE76000000000000065C
+t1295498870
+s1628
+i<string.h>
+i"lua.h"
+i"llimits.h"
+i"lmem.h"
+i"lstate.h"
+i"lzio.h"
+
+N/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lzio.h
+c000000004D37BE760000000000000614
+t1295498870
+s1556
+i"lua.h"
+i"lmem.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320753814#320753814#0(0"0(0#1#0"8604249312#0"0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lapi.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lapi.c normal i386 c com.apple.compilers.gcc.4_2
+s320744734.696523
+e320744734.882089
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lapi.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lapi.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lapi.c320744734#320744734#0(0"0(0#0#60"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lapi.c8609111008#1701"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lapi.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lapi.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lauxlib.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lauxlib.c normal i386 c com.apple.compilers.gcc.4_2
+s320744734.697553
+e320744734.801686
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lauxlib.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lauxlib.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lauxlib.c320744734#320744734#0(0"0(0#0#63"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lauxlib.c8606954816#1707"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lauxlib.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lauxlib.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lbaselib.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lbaselib.c normal i386 c com.apple.compilers.gcc.4_2
+s320744734.801889
+e320744734.927545
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lbaselib.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lbaselib.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lbaselib.c320744734#320744734#0(0"0(0#0#64"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lbaselib.c8608721664#1709"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lbaselib.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lbaselib.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lcode.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lcode.c normal i386 c com.apple.compilers.gcc.4_2
+s320744734.882188
+e320744735.074840
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lcode.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lcode.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lcode.c320744734#320744735#0(0"0(0#0#61"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lcode.c8608390432#1703"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lcode.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lcode.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldblib.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldblib.c normal i386 c com.apple.compilers.gcc.4_2
+s320744734.927646
+e320744735.021659
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldblib.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldblib.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldblib.c320744734#320744735#0(0"0(0#0#62"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldblib.c8607736512#1705"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldblib.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldblib.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldebug.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldebug.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.021776
+e320744735.151627
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldebug.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldebug.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldebug.c320744735#320744735#0(0"0(0#0#62"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldebug.c8608409984#1705"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldebug.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldebug.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldo.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldo.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.074936
+e320744735.215417
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldo.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldo.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldo.c320744735#320744735#0(0"0(0#0#59"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldo.c8608137536#1699"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldo.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldo.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldump.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldump.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.151726
+e320744735.226435
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldump.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldump.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldump.c320744735#320744735#0(0"0(0#0#61"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldump.c8607860704#1703"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ldump.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ldump.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lfunc.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lfunc.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.215520
+e320744735.287126
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lfunc.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lfunc.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lfunc.c320744735#320744735#0(0"0(0#0#61"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lfunc.c8607534496#1703"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lfunc.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lfunc.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lgc.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lgc.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.226539
+e320744735.376704
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lgc.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lgc.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lgc.c320744735#320744735#0(0"0(0#0#59"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lgc.c8607303168#1699"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lgc.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lgc.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/linit.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/linit.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.287224
+e320744735.323271
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/linit.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/linit.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/linit.c320744735#320744735#0(0"0(0#0#61"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/linit.c8607072480#1703"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/linit.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/linit.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/liolib.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/liolib.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.323401
+e320744735.420725
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/liolib.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/liolib.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/liolib.c320744735#320744735#0(0"0(0#0#62"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/liolib.c8603763616#1705"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/liolib.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/liolib.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/llex.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/llex.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.376823
+e320744735.531278
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/llex.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/llex.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/llex.c320744735#320744735#0(0"0(0#0#60"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/llex.c8606555872#1701"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/llex.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/llex.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lmathlib.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lmathlib.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.420826
+e320744735.499296
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lmathlib.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lmathlib.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lmathlib.c320744735#320744735#0(0"0(0#0#64"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lmathlib.c8607096224#1709"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lmathlib.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lmathlib.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lmem.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lmem.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.499397
+e320744735.548945
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lmem.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lmem.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lmem.c320744735#320744735#0(0"0(0#0#60"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lmem.c8601964864#1701"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lmem.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lmem.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/loadlib.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/loadlib.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.531457
+e320744735.642006
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/loadlib.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/loadlib.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/loadlib.c320744735#320744735#0(0"0(0#0#63"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/loadlib.c8604198464#1707"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/loadlib.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/loadlib.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lobject.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lobject.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.549039
+e320744735.630993
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lobject.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lobject.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lobject.c320744735#320744735#0(0"0(0#0#63"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lobject.c8608890304#1707"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lobject.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lobject.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lopcodes.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lopcodes.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.631095
+e320744735.676844
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lopcodes.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lopcodes.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lopcodes.c320744735#320744735#0(0"0(0#0#64"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lopcodes.c8608331968#1709"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lopcodes.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lopcodes.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/loslib.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/loslib.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.642102
+e320744735.720290
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/loslib.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/loslib.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/loslib.c320744735#320744735#0(0"0(0#0#62"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/loslib.c8608369632#1705"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/loslib.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/loslib.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lparser.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lparser.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.676944
+e320744735.891505
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lparser.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lparser.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lparser.c320744735#320744735#0(0"0(0#0#63"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lparser.c8606477824#1707"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lparser.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lparser.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lstate.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstate.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.720387
+e320744735.780447
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lstate.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstate.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstate.c320744735#320744735#0(0"0(0#0#62"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstate.c8607002240#1705"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstate.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lstate.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lstring.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstring.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.780545
+e320744735.833799
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lstring.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstring.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstring.c320744735#320744735#0(0"0(0#0#63"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstring.c8608575424#1707"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstring.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lstring.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lstrlib.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstrlib.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.833902
+e320744736.019790
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lstrlib.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstrlib.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstrlib.c320744735#320744736#0(0"0(0#0#63"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstrlib.c8608172640#1707"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lstrlib.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lstrlib.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ltable.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltable.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.891603
+e320744735.989724
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ltable.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltable.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltable.c320744735#320744735#0(0"0(0#0#62"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltable.c8607936928#1705"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltable.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ltable.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ltablib.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltablib.c normal i386 c com.apple.compilers.gcc.4_2
+s320744735.989827
+e320744736.056687
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ltablib.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltablib.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltablib.c320744735#320744736#0(0"0(0#0#63"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltablib.c8607437600#1707"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltablib.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ltablib.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ltm.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltm.c normal i386 c com.apple.compilers.gcc.4_2
+s320744736.019895
+e320744736.070166
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ltm.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltm.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltm.c320744736#320744736#0(0"0(0#0#59"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltm.c8607082304#1699"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/ltm.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/ltm.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lundump.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lundump.c normal i386 c com.apple.compilers.gcc.4_2
+s320744736.056791
+e320744736.138542
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lundump.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lundump.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lundump.c320744736#320744736#0(0"0(0#0#63"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lundump.c8606888384#1707"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lundump.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lundump.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lvm.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lvm.c normal i386 c com.apple.compilers.gcc.4_2
+s320744736.070264
+e320744736.257317
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lvm.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lvm.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lvm.c320744736#320744736#0(0"0(0#0#59"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lvm.c8606515968#1699"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lvm.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lvm.o0#
+
+CCompileC build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lzio.o /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lzio.c normal i386 c com.apple.compilers.gcc.4_2
+s320744736.138638
+e320744736.188767
+r1
+xCompileC
+xbuild/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lzio.o
+x/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lzio.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lzio.c320744736#320744736#0(0"0(0#0#60"/Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lzio.c8607923648#1701"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-generated-files.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-own-target-headers.hmap -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-all-target-headers.hmap -iquote /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Lua-project-headers.hmap -F/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -I/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/include -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources/i386 -I/Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/DerivedSources -c /Users/boris/Documents/Code/LuaCocos2D/libs/lua-5.1.4/lzio.c -o /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/lzio.o0#
+
+CLibtool /Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/libLua.a normal i386
+s320744736.257422
+e320744736.280638
+r1
+xLibtool
+x/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/libLua.a
+xnormal
+xi386
+lSLF07#2@56"Libtool build/Debug-iphonesimulator/libLua.a normal i386320744736#320744736#0(0"0(0#0#0"8603734208#703"    cd /Users/boris/Documents/Code/LuaCocos2D    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator -filelist /Users/boris/Documents/Code/LuaCocos2D/build/LuaCocos2D.build/Debug-iphonesimulator/Lua.build/Objects-normal/i386/Lua.LinkFileList -o /Users/boris/Documents/Code/LuaCocos2D/build/Debug-iphonesimulator/libLua.a0#
+
